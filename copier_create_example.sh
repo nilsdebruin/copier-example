@@ -1,0 +1,1 @@
+copier . copier-tests/example # -a .copier-answers-example.yml
