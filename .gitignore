@@ -108,4 +108,5 @@ fabric.properties
 # Crash log files
 crash.log
 
+!copier-test/.gitkeep
 copier-tests
